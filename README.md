@@ -1,8 +1,6 @@
 # **¡Hola, soy Angely Cruz! 👋**  
 
-### **Ingeniera en Tecnología de Software**  
-📞 `8119762169` | ✉️ `angely.cruzo@uanl.edu.mx`  
-
+### **Ingeniera en Tecnología de Software**
 ---
 
 ## **👩‍💻 Sobre mí**  
